@@ -1,0 +1,7 @@
+---
+channel: stable
+addons:
+  paperless-ngx:
+    repository: SeSeicht/ha-addons
+    target: paperless-ngx
+    image: ghcr.io/benoitanastay/paperless-ngx/{arch}
